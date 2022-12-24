@@ -5,5 +5,12 @@
 			"src":"princess.jpg",
 			"alt":"Image of princess"
 		}
+	},
+	"Mountain Bonds: A Father-Daughter Journey": {
+		"story": "Once upon a time, there was a father named John who lived with his daughter, Lily, in a small house on the edge of town. John was a hardworking man who had always put his family first, and he loved Lily with all his heart.Despite his best efforts, John struggled to connect with his daughter as she grew older. She was a curious and independent young woman who often seemed more interested in exploring the world than spending time with her father.One day, John decided to take Lily on a trip to the mountains to try and bond with her. It was a difficult journey, but they eventually reached their destination and set up camp in a secluded valley.As they hiked through the mountains, John began to open up to Lily about his own life and the struggles he had faced as a young man. He told her about the mistakes he had made and the lessons he had learned, and how much he valued the relationship he had with her.Lily listened attentively, and for the first time in her life, she felt like she truly understood her father. She realized that he was not just a strict and distant authority figure, but a loving and compassionate man who had always put her needs before his own.The trip to the mountains was a turning point for John and Lily's relationship. They returned home closer than ever before, and John vowed to always make time for his daughter and to be there for her whenever she needed him.From that day on, John and Lily's bond grew stronger and deeper, and they knew that they would always be there for each other, no matter what life had in store.",
+		"img":{
+			"src": "father_and_daughter.jpg",
+			"alt": "Image of father and daughter"
+		}
 	}
 }
