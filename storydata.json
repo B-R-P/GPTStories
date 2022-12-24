@@ -33,5 +33,12 @@
 			"src":"john.jpg",
 			"alt": "Image of John"
 		}
+	},
+	"The Great Sacrifice: David's Journey to Save the Forest":{
+		"story": "There was once a young man named David who lived in a small village on the edge of a great forest. David was a kind and compassionate person, and he had always felt a deep connection to the natural world.One day, a great darkness fell upon the land, and the forest began to wither and die. The animals that called the forest home became sick and weak, and many of them died. The villagers were terrified, and they turned to David for help.Despite his fear, David knew that he had to do something to save the forest and the animals that he loved. He spent long hours studying the ancient texts and seeking guidance from the wise women and men of the village. Finally, he came up with a plan.David knew that the only way to save the forest was to make a great sacrifice. He gathered the villagers together and explained his plan. He would journey deep into the forest and offer himself up to the darkness, in the hopes that it would spare the forest and its inhabitants.The villagers were torn by David's proposal, but they knew that he was their only hope. They gathered their supplies and set out with David into the forest. After a long and difficult journey, they reached the heart of the darkness, where David offered himself up as a sacrifice.To their amazement, the darkness retreated, and the forest began to heal. The animals returned, and the villagers rejoiced. David's sacrifice had saved the forest, and his memory would be honored for generations to come.",
+		"img":{
+			"src":"david.jpg",
+			"alt":"Image of David"
+		}
 	}
 }
