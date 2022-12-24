@@ -1,0 +1,9 @@
+{
+	"Princess and the Elixir of Life":{
+		"story":"Once upon a time, in a world filled with magic and wonder, there was a young princess named Rose. Rose lived in a beautiful castle surrounded by lush gardens and sparkling fountains. She was loved by all who knew her, and she had everything she could possibly want. However, Rose was not content to simply live a life of luxury. She yearned for adventure and excitement, and she was determined to see the world beyond her castle walls. One day, Rose's wish came true. A powerful sorceress approached her and offered to take her on a journey through the land of Arinor, a place filled with dangerous beasts, treacherous foes, and hidden treasures. Rose eagerly accepted the offer, and set out on her journey with the sorceress by her side. As they traveled, Rose encountered all manner of challenges and obstacles. She faced fierce dragons and battled fierce warriors, all while learning to harness the magic within herself. Despite the dangers, Rose remained determined and resilient, and she eventually emerged victorious over all her enemies. At last, Rose reached the heart of Arinor, where she discovered the greatest treasure of all: the magical Elixir of Life. With this powerful elixir in hand, Rose returned home to her castle, where she lived happily ever after.",
+		"img":{
+			"src":"./static/princess.jpg",
+			"alt":"Image of princess"
+		}
+	}
+}
