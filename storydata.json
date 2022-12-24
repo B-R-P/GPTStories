@@ -40,5 +40,12 @@
 			"src":"david.jpg",
 			"alt":"Image of David"
 		}
+	},
+	"Emily's Journey: A Tale of Exploration and Discovery in the Final Frontier":{
+		"story": "In the year 2153, humanity had finally reached the stars. The first colony on Mars had been established, and humans were exploring the outer reaches of the solar system.Among the brave pioneers who ventured into the vast unknown was a young woman named Emily. Emily was a skilled pilot and a brilliant engineer, and she had always dreamed of exploring the universe.When the opportunity to join the first manned mission to the outer planets presented itself, Emily jumped at the chance. She spent months training and preparing for the journey, and when the day finally came, she was ready.The journey was long and difficult, but Emily and her crewmates persevered. They faced countless challenges, from technical malfunctions to the dangers of deep space itself. But through it all, Emily remained determined and focused, always pushing herself and her team to be their best.Finally, after years of travel, Emily and her team arrived at their destination: a small, rocky planet orbiting a distant star. As they explored the surface, they made a shocking discovery: they were not alone.The planet was home to a strange and ancient alien race, unlike anything humanity had ever encountered. Emily and her team were hailed as heroes when they returned to Earth, and their discoveries changed the course of human history. Emily's name would be remembered for generations to come, as one of the greatest explorers of the age.",
+		"img":{
+			"src":"emily.jpg",
+			"alt":"Image of emily"
+		}
 	}
 }
