@@ -26,5 +26,12 @@
 			"src": "sarah.jpg",
 			"alt": "Image of sarah"
 		}
+	},
+	"Betrayed: John's Struggle with Loyalty":{
+		"story": "There was once a man named John who had always believed in the power of loyalty and friendship. He had a small group of close friends who he trusted implicitly, and he would have done anything for them.One of John's closest friends was a man named Jack, who he had known since they were children. John had always looked up to Jack, who was charismatic and successful in both his personal and professional life. John trusted Jack completely, and the two men confided in each other about everything.However, John soon learned that Jack was not the man he thought he was. One day, John discovered that Jack had been secretly stealing from him for years, slowly bleeding his bank account dry. John was shocked and heartbroken by the betrayal, and he struggled to understand how someone he trusted so deeply could have done this to him.Despite the pain and anger he felt, John decided to confront Jack and demand an explanation. Jack initially tried to deny the accusations, but eventually he broke down and admitted to everything. He begged for John's forgiveness, claiming that he had gotten in over his head with some bad investments and had turned to stealing as a way to pay off his debts.John was torn by Jack's confession. On the one hand, he felt compassion for his friend's struggles. On the other hand, he could not ignore the betrayal and the damage that had been done. In the end, John decided to cut ties with Jack and move on with his life, vowing to be more cautious about whom he trusted in the future. It was a hard lesson, but one that John knew he needed to learn in order to protect himself and his relationships.",
+		"img":{
+			"src":"john.jpg",
+			"alt": "Image of John"
+		}
 	}
 }
