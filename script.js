@@ -7,7 +7,7 @@ function addStory(storyData,...other){
 	heading.append(center)
 	let story = document.createElement("p")
 	story.align = "justify"
-	story.style.fontFamily = "'Lexend', sans-serif"
+	story.style.fontFamily = "'Lexend Deca', sans-serif"
 	story.textContent = details["story"]
 	let image = document.createElement("img")
 	image.src="https://raw.githubusercontent.com//B-R-P//GPTStories//main//static//"+details["img"]["src"]
