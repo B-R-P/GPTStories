@@ -19,5 +19,12 @@
 			"src":"brotherhood.jpg",
 			"alt": "A young woman sitting by the bedside"
 		}
+	},
+	"The Journey of an Artist: Sarah's Inspiration":{
+		"story": "There was once a young woman named Sarah who had always dreamed of becoming an artist. She had always been drawn to the vibrant colors and expressive brushstrokes of the great masters, and she spent every spare moment practicing her craft. Despite her talent, Sarah struggled to find the motivation to pursue her dreams. She worked long hours at a job she didn't love, and her days seemed to blend together in a never-ending cycle of work, eat, sleep.One day, Sarah's best friend convinced her to take a trip to the countryside. The fresh air and stunning views were exactly what Sarah needed to clear her mind and find her inspiration. As she walked through the fields and forests, she felt her creative energy returning. She began sketching and painting the landscapes and wildlife around her, and she was filled with a sense of joy and purpose that she had not felt in years.When Sarah returned home, she knew that she had to follow her heart and pursue her dream of becoming an artist. She quit her job and began working on her art full-time. It was a risky decision, but Sarah was determined to make it work. She spent long hours in her studio, perfecting her technique and experimenting with new styles. She took on commissions and participated in local art shows, and slowly but surely, she began to build a following.Sarah's hard work and dedication paid off, and she became a successful artist, known for her vibrant, expressive paintings. She traveled the world, exhibiting her work and inspiring others to pursue their dreams. And every day, Sarah was grateful for the trip that had given her the motivation and happiness she needed to follow her heart and live her dream.",
+		"img":{
+			"src": "sarah.jpg",
+			"alt": "Image of sarah"
+		}
 	}
 }
