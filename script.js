@@ -23,4 +23,4 @@ async function addStories(url) {
     const json = Object.entries(await response.json())
     document.body.append(...json.map(addStory))
 }
-addStories("https://cdn.jsdelivr.net/gh/B-R-P/GPTStories@latest/storydata.json")
+addStories("./storydata.json")
