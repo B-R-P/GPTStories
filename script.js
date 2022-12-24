@@ -16,11 +16,11 @@ function addStory(storyData,...other){
 	let storySection = document.createElement("div")
 	storySection.className = "container"
 	storySection.append(heading,story,image)
-	return storySection
+	document.body.append(storySection)
 }
 async function addStories(url) {
     const response = await fetch(url,{mode: 'cors'})
     const json = Object.entries(await response.json())
-    document.body.append(...json.map(addStory))
+    json.map(addStory)
 }
 addStories("./storydata.json")
