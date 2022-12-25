@@ -61,6 +61,20 @@
 			"src":"Mikhail.jpg",
 			"alt":"Image of Mikhail"
 		}
+	},
+	"The Lone Wolf":{
+		"story":"It was a hot summer day in the small Spanish town of Pamplona, and the streets were bustling with tourists and locals alike. But for the young man named Carlos, the crowds were just a distraction. He was focused on one thing and one thing only: the annual bull run.  Carlos was an experienced runner, having participated in the event every year since he was a boy. He was known as the \"lone wolf\" for his fierce determination and refusal to join a team. He preferred to run on his own, relying on his quick reflexes and agility to avoid the charging bulls.  This year, Carlos was more determined than ever to win the bull run. He had trained tirelessly, pushing himself to the limit every day. When the day of the event finally arrived, he was ready.  As the bulls were released from their pens, Carlos took off down the narrow streets, dodging and weaving his way through the crowds. He was in the lead, his heart pounding in his chest.  But as he rounded the final corner, disaster struck. One of the bulls stumbled and fell, causing a pile-up of runners and bulls. Carlos was caught in the melee, his foot trapped beneath a fallen runner.  As the bulls closed in, Carlos knew his time was up. He closed his eyes and waited for the end, feeling a sense of peace wash over him. But as the bulls passed by, he opened his eyes to find that he had somehow survived.  Carlos was hailed as a hero, his bravery and determination earning him the respect and admiration of the entire town. And as he limped home, battered and bruised but alive, he knew that he had truly lived.",
+		"img":{
+			"src":"Carlos.jpg",
+			"alt":"Image of Carlos"
+		}	
+	},
+	"The Prodigal Son":{
+		"story":"In the small Russian town of Staraya Russa, there lived a young man named Dimitri. Dimitri was the son of a wealthy merchant, and had always lived a life of luxury and ease. But despite his privileged upbringing, Dimitri was restless and discontent. He yearned for adventure and excitement, and so he left home and set out into the world. For years, Dimitri travelled from place to place, living a wild and reckless life. He squandered his inheritance and made poor decisions, earning the contempt and disdain of his family and friends. But as the years went by, Dimitri began to realize the error of his ways. He missed his home and his family, and longed for the love and acceptance he had once taken for granted. He decided to return to Staraya Russa and seek forgiveness from his father. When he arrived at his childhood home, Dimitri was met with a cold reception. His father refused to see him, and his mother and siblings shunned him. Dimitri was filled with shame and regret, and knew that he had much to atone for. But Dimitri was not one to give up easily. He worked hard and earned his father's respect, rebuilding his shattered relationship one day at a time. And as he stood by his father's side in the bustling marketplace, Dimitri knew that he had finally found his place in the world.",
+		"img":{
+			"src":"Dimitri.jpg",
+			"alt":"Image of Dimitri"
+		}	
 	}
 
 }

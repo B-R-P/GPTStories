@@ -12,7 +12,7 @@ function addStory(storyData,...other){
 	let image = document.createElement("img")
 	image.src="static//"+details["img"]["src"]
 	image.alt = details["img"]["alt"]
-	image.height="350"
+	image.width="300"
 	let storySection = document.createElement("div")
 	storySection.className = "container"
 	storySection.append(heading,story,image)
