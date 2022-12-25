@@ -75,6 +75,35 @@
 			"src":"Dimitri.jpg",
 			"alt":"Image of Dimitri"
 		}	
+	}, 
+	"The Outsider: A Tale of Courage and Determination":{
+		"story":"As the sun began to set over Dublin, young Leopold Bloom made his way through the winding streets of the city, lost in thought. He had always been something of an outsider, a man who marched to the beat of his own drum and refused to conform to the expectations of society. As he walked, he couldn't help but feel a sense of unease creeping over him. There was a darkness lurking just beneath the surface of the city, a sense of decay and corruption that seemed to seep into every corner. Despite this, Leopold refused to let it get him down. He was a man of great wit and intellect, and he knew that he had the strength and the determination to overcome any obstacle that stood in his way. As he turned a corner, he found himself face to face with a group of rowdy young men, their laughter and jeers echoing through the streets. Leopold knew that he should turn and run, but something in him refused to back down. And so, with a fierce determination burning in his heart, he stood his ground and faced down the mob. And in that moment, he knew that he was truly alive, that he was truly a man of substance and purpose. For Leopold Bloom, the journey had just begun, and he knew that no matter what challenges lay ahead, he would always be ready to face them head on, with courage and with determination.",
+		"img":{
+			"src":"Leopold.jpg",
+			"alt":"Image of Leopold"
+		}	
+	},
+	"The Chanting in the Woods":{
+		"story":"As the sun set over the small town of Millville, Emily sat on her porch, staring out at the empty streets. It was a quiet, peaceful place, the kind of place where nothing ever happened. Or at least, that's what Emily had always thought. But as she sat there, she couldn't shake the feeling that something was off. There was a tension in the air, a sense of unease that she couldn't quite put her finger on. As the night wore on, the feeling only grew stronger. Emily began to hear strange noises coming from the woods that surrounded the town. At first, she tried to ignore them, telling herself it was just the wind. But as the noises grew louder and more persistent, she knew she couldn't ignore them any longer. She had to find out what was causing them. Taking a deep breath, Emily gathered her courage and stepped off the porch, heading into the woods. She walked for what felt like hours, following the strange noises as they led her deeper and deeper into the forest. Finally, she came upon a clearing and saw the source of the noise. It was a group of people, all dressed in black and chanting some kind of incantation. As she watched, horrified, the people began to transform into grotesque, monstrous creatures. Emily knew she had to get out of there, fast. Turning on her heel, she ran back through the woods, her heart pounding in her chest. She didn't stop until she reached the safety of her porch, where she collapsed, panting and shaking. From that day on, Emily knew that Millville was not the peaceful, idyllic town she had always thought it was. There was darkness lurking in the shadows, and she knew she had to be careful. But even as she tried to be vigilant, she couldn't shake the feeling that something else was out there, waiting for her in the woods.",
+		"img":{
+			"src":"Emily2.jpg",
+			"alt":"Image of Emily"
+		}	
+	},
+	"The Woman in the Cafe":{
+		"story":"As the sun rose over the city of Tokyo, Hiro sat at his desk, staring at the computer screen. He had been working on the same project for hours, but no matter how hard he tried, he just couldn't focus. There was something nagging at the back of his mind, a feeling that he couldn't shake. It was a sense of unease, a sense that something was wrong. He tried to push it out of his head and focus on his work, but the feeling only grew stronger. Finally, he gave up and decided to take a break. As he wandered the streets of Tokyo, he found himself drawn to a small, out-of-the-way cafe. He had never been there before, but something about it called to him. As he sat at a table, sipping his coffee, he noticed a woman sitting at the bar. She was beautiful, with long black hair and piercing blue eyes. Without thinking, Hiro walked over to her and struck up a conversation. They talked for hours, sharing stories and laughing. As the night wore on, Hiro realized that he had never felt such a connection with anyone before. He knew that he had to see her again. The next day, he went back to the cafe, but the woman was nowhere to be found. He asked the barista if he knew where she had gone, but he just shrugged and said he had never seen her before. Hiro knew that he had to find her. He spent the next week searching for her all over Tokyo, but she was nowhere to be found. In the end, he realized that he had fallen in love with a woman who may have never even existed. But even as he tried to move on, he couldn't shake the feeling that she was still out there, waiting for him.",
+		"img":{
+			"src":"Hiro.jpg",
+			"alt":"Image of Hiro"
+		}
+	},
+	"The Animals of the Forest":{
+		"story":"As the sun set over the small town of Millville, Emma sat on her porch, staring out at the empty streets. It was a quiet, peaceful place, the kind of place where nothing ever happened. Or at least, that's what Emma had always thought. But as she sat there, she couldn't shake the feeling that something was off. There was a tension in the air, a sense of unease that she couldn't quite put her finger on. As the night wore on, the feeling only grew stronger. Emma began to hear strange noises coming from the woods that surrounded the town. At first, she tried to ignore them, telling herself it was just the wind. But as the noises grew louder and more persistent, she knew she couldn't ignore them any longer. She had to find out what was causing them. Taking a deep breath, Emma gathered her courage and stepped off the porch, heading into the woods. She walked for what felt like hours, following the strange noises as they led her deeper and deeper into the forest. Finally, she came upon a clearing and saw the source of the noise. It was a group of animals, all huddled together in a circle. As she watched, fascinated, the animals began to speak to her in human voices. They told her about their struggles, their fears, and their hopes for the future. Emma listened, entranced, as the animals spoke of a world beyond her own, a world full of magic and wonder. And as she listened, she knew that she had to do something to help them. Turning on her heel, she ran back through the woods, her heart pounding in her chest. She didn't stop until she reached the safety of her porch, where she collapsed, panting and shaking. From that day on, Emma knew that she had to do everything in her power to help the animals of the forest. She spent every free moment working to protect them, and she knew that as long as she had them by her side, she would never be alone.",
+		"img":{
+			"src":"Emma.jpg",
+			"alt":"Image of Emma"
+		}	
 	}
+	
 
 }
